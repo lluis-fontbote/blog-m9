@@ -1,0 +1,10 @@
+.card-img-top {
+    width: 100% !important;
+    height: 15vw !important;
+    object-fit: cover !important;
+}
+
+div.col-6 a.card-link-no-decoration {
+    color: black !important;
+    text-decoration: none !important;
+}
